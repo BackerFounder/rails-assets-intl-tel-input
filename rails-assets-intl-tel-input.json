@@ -1,0 +1,37 @@
+{
+  "name": "rails-assets-intl-tel-input",
+  "downloads": null,
+  "version": "13.0.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/Bluefieldscom/intl-tel-input",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/Bluefieldscom/intl-tel-input",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/Bluefieldscom/intl-tel-input",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.7"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
